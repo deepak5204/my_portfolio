@@ -29,7 +29,9 @@ nav{
 }
 
 .logo{
-    width: 140px;
+    color: #ff004f;
+    font-size: 80px;
+    margin: 20px 0;
 }
 
 nav ul li{
