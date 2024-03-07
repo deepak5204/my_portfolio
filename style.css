@@ -101,6 +101,12 @@ nav ul li a:hover::after{
 
 .about-col2{
     flex-basis: 60%;
+    line-height: 22px;
+}
+
+.about-col2 p{
+    margin-top: 15px;
+    font-size: 15px;
 }
 
 .sub-title{
@@ -111,12 +117,14 @@ nav ul li a:hover::after{
 
 .tab-titles{
     display: flex;
-    margin: 20px 0 40px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+    /* margin: 20px 0 40px; */
 }
 
 .tab-links{
     margin-right: 50px;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 500;
     cursor: pointer;
     position: relative;
