@@ -110,6 +110,7 @@ nav ul li a:hover::after{
 }
 
 .sub-title{
+    margin-bottom: 20px;
     font-size: 60px;
     font-weight: 600;
     color: #fff
